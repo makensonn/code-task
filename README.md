@@ -1,4 +1,4 @@
-# Codetasc
+# Codetask
  • Developed an application to help users learn coding, prepare for technical interviews, and seek jobs
  
  • Implemented features such as personalized interview questions and coding challenges to improve user success
