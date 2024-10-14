@@ -6,3 +6,4 @@
  • Collaborated with users to collect feedback and added job-seeking features like resume builders and job boards
  
  • Publishing the app on multiple platforms, gaining 500+ users with an average 4.7/5-star review
+
